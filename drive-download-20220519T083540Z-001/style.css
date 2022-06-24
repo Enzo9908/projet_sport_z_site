@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Outfit','sans-serif';
+}
+
+.retour {
+    max-width: 40px;
+    height: auto;
+}
+
+.icone {
+    text-align: center;
+    margin-right: 10px;
+}
